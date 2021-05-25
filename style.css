@@ -1,0 +1,27 @@
+h2{
+    color: aqua;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+}
+th{
+    color: none;
+    font-weight: 800;
+    background-color: aqua;
+    text-align: center;
+
+}
+1{
+    color: #2296C7;
+    font-size: 40px;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+}
+
+table{
+    font-family: Helvetica, sans-serif;
+    border-width: 1px;
+    border-style: double;
+    border-color: aqua;
+    
+    
+}
